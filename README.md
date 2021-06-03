@@ -8,4 +8,4 @@ Add link to deployed application here.
 
 <br>
 
-<img src="../assets/images/hw1-semantics-readme-scrnshot.png"/> 
+![](2021-06-03-15-24-26.png)
