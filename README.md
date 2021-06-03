@@ -6,6 +6,7 @@ This lesson and the corresponding webpage are used for practicing semantic tags.
 
 Add link to deployed application here.
 
+<p>
 <br>
-
-![](2021-06-03-15-24-26.png)
+<img src="../assets/images/hw1-semantics-readme-scrnshot.png"/>
+</p>
