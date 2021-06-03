@@ -8,6 +8,5 @@ Add link to deployed application here.
 
 <p>
 <br>
-<img src="../assets/images/hw1-semantics-readme-scrnshot.png"/>
-<br>
+<img src="../assets/images/hw1-semantics-readme-scrnshot.png" width=700 height=500/>
 </p>
