@@ -8,5 +8,5 @@ Add link to deployed application here.
 
 <p>
 <br>
-<img src="../assets/images/hw1-semantics-readme-scrnshot.jpg"/>
+<img src="../assets/images/hw1-semantics-readme-scrnshot.jpg" raw="true" alt="Horiseon Application"/>
 </p>
