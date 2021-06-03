@@ -7,5 +7,7 @@ This lesson and the corresponding webpage are used for practicing semantic tags.
 Add link to deployed application here.
 
 <p>
+
 <img src="../assets/images/hw1-semantics-readme-scrnshot.png" width=200 height = 200/>
+
 </p>
