@@ -8,7 +8,7 @@ Add link to deployed application here.
 
 <p>
 <br>
-<img src="./hw1-semantics-readme-scrnshot.jpg" alt="Horiseon Application"/>
+<img src="../assets/images/hw1-readme-screenshot.png" alt="Horiseon Application"/>
 </p>
 
 <!--ToDo:
