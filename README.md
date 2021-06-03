@@ -11,6 +11,9 @@ Add link to deployed application here.
 <img src="../assets/images/hw1-semantics-readme-scrnshot.jpg" alt="Horiseon Application"/>
 </p>
 
+<!--ToDo:
+    +Fix README.md screenshot GH issue
+    +Add application URL-->
 
 
 
