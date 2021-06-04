@@ -8,13 +8,12 @@ Add link to deployed application here.
 
 <br>
 
-<p>
-![](hw1-semantic-readme.png)
-</p>
+<img src="./hw1-semantic-readme.png" width="800" />
+
 
 <!--todo
     +Fix README.md screenshot GH issue
-    +Add application URL-->
+    +Add application URL link-->
 
 
 
