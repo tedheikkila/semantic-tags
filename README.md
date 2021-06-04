@@ -8,7 +8,9 @@ Add link to deployed application here.
 
 <br>
 
-![](2021-06-03-19-42-23.png)
+<p>
+![](hw1-semantic-readme.png)
+</p>
 
 <!--todo
     +Fix README.md screenshot GH issue
