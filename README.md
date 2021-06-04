@@ -8,7 +8,7 @@ Add link to deployed application here.
 
 <br>
 
-<img src="./hw1-semantic-readme.png" width="700" />
+<img src="hw1-semantic-readme.png" width="700" /> ![](hw1-semantic-readme.png) 
 
 
 <!--todo
