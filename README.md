@@ -6,12 +6,11 @@ This lesson and the corresponding webpage are used for practicing semantic tags.
 
 Add link to deployed application here.
 
-<p>
 <br>
-<img src="../assets/images/hw1-readme-screenshot.png" alt="Horiseon Application"/>
-</p>
 
-<!--ToDo:
+![](2021-06-03-19-42-23.png)
+
+<!--todo
     +Fix README.md screenshot GH issue
     +Add application URL-->
 
