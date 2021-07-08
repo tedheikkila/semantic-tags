@@ -4,7 +4,7 @@ This lesson and the corresponding webpage are used for practicing semantic tags.
 
 <br>
 
-Check out the deployed application here: https://tedheikkila.github.io/hw1-semantic-tags/
+Check out the deployed application here: https://tedheikkila.github.io/semantic-tags/
 
 <br>
 
